@@ -1,5 +1,6 @@
 # Data_science_job_EDA
-
+<h1 align="center"> Data Science Job EDA </h1>
+![image](https://daxg39y63pxwu.cloudfront.net/images/Exploratory+Data+Analysis/EDA+exploratory+data+analysis+python+example.png)
 Intro:
 Salaries of jobs in the Data Science domain
 📌 GOAL:
